@@ -2,8 +2,8 @@
 
 	<div class="alert">
 		<button type="button" class="close" data-dismiss="alert">&times;</button>
-		<strong>Coming Soon!</strong> &nbsp; On November 23 Team B becomes Team
-		Byars
+		<strong>Coming Soon!</strong> &nbsp; On November 23 Team B becomes
+		Team Byars
 	</div>
 
 	<!-- Main hero unit -->
@@ -25,7 +25,6 @@
 
 			<!-- START THE FEATURETTES -->
 
-			<hr class="featurette-divider">
 
 			<div class="featurette">
 				<img class="featurette-image pull-right img-rounded"
@@ -42,9 +41,13 @@
 			<div class="featurette">
 				<img class="featurette-image pull-left img-rounded"
 					src="<?php echo base_url(); ?>assets/img/madrid2.png">
+
 				<h2 class="featurette-heading">
 					We don't want you to get lost on the way! <span class="muted">Here's
-						a map to the venue.</span>
+						a map to the venue. <a
+						href="https://maps.google.com/maps?q=Madrid+Theatre+3810+Main+Street+Kansas+City,+MO+64111&hq=Madrid+Theatre&hnear=3810+Main+St,+Kansas+City,+Missouri+64111&t=m&z=16"
+						target="_blank">Click to open.</a>
+					</span>
 				</h2>
 				<p class="lead">The ceremony is at the Madrid Theatre in Kansas
 					City, MO. Fun fact: The Madrid Theatre was once owned by Howard
@@ -65,6 +68,34 @@
 			</div>
 
 			<hr class="featurette-divider">
+
+			<div class="featurette">
+				<img class="featurette-image pull-left img-circle"
+					src="<?php echo base_url(); ?>assets/img/bbb_logo.png">
+				<h2 class="featurette-heading">
+					Registry information <span class="muted">Bed Bath &amp; Beyond</span>
+				</h2>
+				<p class="lead">
+					We registered at Bed Bath &amp; Beyond. <a
+						href="http://www.bedbathandbeyond.com/store/giftregistry/view_registry_guest.jsp?registryId=13690131&eventType=Wedding&pwsurl=?mcid=EM_triggeredem_emailregistryplural__allpromos"
+						target="_blank">Click here to view our registry.</a>
+				</p>
+			</div>
+
+			<hr class="featurette-divider">
+
+			<div class="featurette">
+				<img class="featurette-image pull-right img-rounded"
+					src="<?php echo base_url(); ?>assets/img/target-logo-small.png">
+				<h2 class="featurette-heading">
+					More registry information. <span class="muted">Target</span>
+				</h2>
+				<p class="lead">
+					We also registered at Target.<a
+						href="http://www.target.com/wedd/registry/3a04rEwoAnesgJvLJpwbtA"
+						target="_blank">Click here to view our Target registry</a>
+				</p>
+			</div>
 
 			<!-- /END THE FEATURETTES -->
 

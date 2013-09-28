@@ -19,4 +19,13 @@ class Wedding extends CI_Controller {
 		$this->load->view("site_footer");
 	}
 	
+	function registry()
+	{
+		$data['title'] = "Registry";
+		
+		$this->load->view("wedding_header", $data);
+		$this->load->view("site_nav");
+		$this->load->view("content_wedding_registry");
+		$this->load->view("site_footer");
+	}
 }

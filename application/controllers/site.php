@@ -38,4 +38,14 @@ class Site extends CI_Controller {
 		$this->load->view("content_wedding_info");
 		$this->load->view("site_footer");
 	}
+	
+	function teamb()
+	{
+		$data['title'] = "Home";
+		
+		$this->load->view("site_header", $data);
+		$this->load->view("site_nav");
+		$this->load->view("content_what_is_team_b");
+		$this->load->view("site_footer");
+	}
 }
