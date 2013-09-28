@@ -13,7 +13,7 @@ class Wedding extends CI_Controller {
 	{
 		$data['title'] = "Home";
 
-		$this->load->view("site_header", $data);
+		$this->load->view("wedding_header", $data);
 		$this->load->view("site_nav");
 		$this->load->view("content_wedding_home");
 		$this->load->view("site_footer");

@@ -82,7 +82,7 @@
 	}
 	.navbar-inner {
 		border-radius: 0;
-		margin: -20px 0;
+/* 		margin: -20px 0;  commenting this makes the navbar fit in a mobile window properly*/
 	}
 
 
@@ -94,13 +94,23 @@
 	.featurette-image.pull-right {
 		display: block;
 		float: none;
-		max-width: 40%;
+		max-width: 80%;  /* the width of the screen that the image takes up (on mobile) */
 		margin: 0 auto 20px;
 	}
 }
 
 
 @media (max-width: 767px) {
+
+	.navbar-inner {
+
+	}
+
+
+
+	.marketing .span4 + .span4 {
+		margin-top: 40px;
+	}
 
 	.featurette-heading {
 		font-size: 30px;
