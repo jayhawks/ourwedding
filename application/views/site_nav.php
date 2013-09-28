@@ -14,8 +14,6 @@
               <li><a href="<?php echo base_url(); ?>site/home">Home</a></li>
 			  <li><a href="<?php echo base_url(); ?>site/about">About us</a></li>
 			  <li><a href="<?php echo base_url(); ?>wedding">Wedding information</a></li>
-			  <li><a href="<?php echo base_url(); ?>site/pictures">Pictures</a></li>
-			  <li><a href="<?php echo base_url(); ?>site/teamb">Team B?</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>

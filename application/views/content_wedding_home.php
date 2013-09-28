@@ -1,6 +1,6 @@
 <div class="container">
 
-	<div class="alert">
+	<div class="alert alert-info">
 		<button type="button" class="close" data-dismiss="alert">&times;</button>
 		<strong>Coming Soon!</strong> &nbsp; On November 23 Team B becomes
 		Team Byars
@@ -30,7 +30,7 @@
 				<img class="featurette-image pull-right img-rounded"
 					src="<?php echo base_url(); ?>assets/img/invitation_back_resize.png">
 				<h2 class="featurette-heading">
-					Our invitations. <span class="muted">Pretty cool, huh?.</span>
+					Our invitations. <span class="muted">Pretty cool, huh?</span>
 				</h2>
 				<p class="lead">Little Ms. (soon to be Mrs.) B spent quite a bit of
 					time perfecting these bad boys.</p>
