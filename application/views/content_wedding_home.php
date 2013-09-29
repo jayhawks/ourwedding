@@ -35,7 +35,7 @@
 				
 			</div>
 
-			<hr class="featurette-divider" id="directions">
+			<hr class="featurette-divider">
 
 			<div class="featurette">
 				<img class="featurette-image pull-left img-rounded"
@@ -68,7 +68,7 @@
 					as well as security guards to look over your vehicles.</p>
 			</div>
 
-			<hr class="featurette-divider" id="registry">
+			<hr class="featurette-divider">
 
 			<div class="featurette">
 				<img class="featurette-image pull-left img-circle"
