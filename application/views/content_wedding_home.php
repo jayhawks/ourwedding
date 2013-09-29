@@ -10,7 +10,7 @@
 	<div class="hero-unit">
 		<h1>November 23, 2013</h1>
 		<br>
-		<p>Remember the date</p>
+		<p>A day to remember.</p>
 	</div>
 
 	<!-- Main data unit -->
@@ -32,8 +32,7 @@
 				<h2 class="featurette-heading">
 					Our invitations. <span class="muted">Pretty cool, huh?</span>
 				</h2>
-				<p class="lead">Little Ms. (soon to be Mrs.) B spent quite a bit of
-					time perfecting these bad boys.</p>
+				
 			</div>
 
 			<hr class="featurette-divider">
@@ -50,8 +49,10 @@
 					</span>
 				</h2>
 				<p class="lead">The ceremony is at the Madrid Theatre in Kansas
-					City, MO. Fun fact: The Madrid Theatre was once owned by Howard
-					Hughes!</p>
+					City, MO.</p>
+				<p class="lead muted">	
+					Fun fact: The Madrid Theatre was once owned by Howard
+					Hughes.</p>
 			</div>
 
 			<hr class="featurette-divider">
@@ -81,11 +82,28 @@
 						target="_blank">Click here to view our registry.</a>
 				</p>
 			</div>
-
+			
 			<hr class="featurette-divider">
 
 			<div class="featurette">
 				<img class="featurette-image pull-right img-rounded"
+					src="<?php echo base_url(); ?>assets/img/macys_logo.png">
+				<h2 class="featurette-heading">
+					Registry information <span class="muted">Macy's</span>
+				</h2>
+				<p class="lead">
+					We registered at Macy's.<a
+						href="http://www1.macys.com/registry/wedding/guest/?registryId=6005890"
+						target="_blank">  Click here to view our registry.</a>
+				</p>
+			</div>
+
+			<hr class="featurette-divider">
+			
+			
+
+			<div class="featurette">
+				<img class="featurette-image pull-left img-rounded"
 					src="<?php echo base_url(); ?>assets/img/target-logo-small.png">
 				<h2 class="featurette-heading">
 					More registry information. <span class="muted">Target</span>
@@ -93,7 +111,7 @@
 				<p class="lead">
 					We also registered at Target.<a
 						href="http://www.target.com/wedd/registry/3a04rEwoAnesgJvLJpwbtA"
-						target="_blank">Click here to view our Target registry</a>
+						target="_blank">  Click here to view our Target registry</a>
 				</p>
 			</div>
 
