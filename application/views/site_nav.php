@@ -19,10 +19,10 @@
                   <li><a href="<?php echo base_url(); ?>wedding">Information</a></li>
                   <li><a href="<?php echo base_url(); ?>wedding#directions">Directions / Parking</a></li>
                   <li><a href="<?php echo base_url(); ?>wedding#registry">Registry</a></li>
-                  <li class="divider"></li>
-                  <li class="nav-header">The event</li>
-                  <li><a href="#">Wedding party</a></li>
-                  <li><a href="#">One more separated link</a></li>
+<!--                   <li class="divider"></li> -->
+<!--                   <li class="nav-header">The event</li> -->
+<!--                   <li><a href="#">Wedding party</a></li> -->
+<!--                   <li><a href="#">One more separated link</a></li> -->
                 </ul>
               </li>
             </ul>
